@@ -1,0 +1,2 @@
+void clearScr();
+char getKeyPressed();
